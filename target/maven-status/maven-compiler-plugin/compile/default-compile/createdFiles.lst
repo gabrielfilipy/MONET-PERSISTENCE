@@ -1,0 +1,11 @@
+br\gov\monet\core\utils\MonetPageImpl.class
+br\gov\monet\query\MonetPersistenceQueryImpl.class
+br\gov\monet\core\utils\MonetPageable.class
+br\gov\monet\core\configuration\RepositoryFactory.class
+br\gov\monet\core\utils\MonetPage.class
+br\gov\monet\main\MonetPersisteApplication.class
+br\gov\monet\query\MonetPersistenceQuery.class
+br\gov\monet\core\annotation\MonetTable.class
+br\gov\monet\core\bean\MonetConfigResolver.class
+br\gov\monet\core\connection\DatabaseConnection.class
+br\gov\monet\model\User.class
